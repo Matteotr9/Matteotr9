@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- https://github.com/SK0RPIA/CMS-SLAM
+- [CMS project](https://github.com/SK0RPIA/CMS-SLAM)
 
 <!--
 **Matteotr9/Matteotr9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
